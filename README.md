@@ -1,5 +1,6 @@
-📦 AI Escrow Commerce
-Cronos x402 Hackathon Submission
+📦 AI Escrow Commerce Cronos x402 Hackathon Submission
+
+
 🚀 Project Overview
 
 AI Escrow Commerce is a decentralized e-commerce payment infrastructure that combines AI-driven risk assessment with smart contract escrow on the Cronos blockchain.
@@ -11,6 +12,8 @@ Low-risk / small payments are automatically settled
 High-value or risky payments are securely held in escrow for admin verification
 
 This project demonstrates real-world x402-compatible, agent-triggered payment flows with AI decision making and on-chain execution.
+
+
 
 ✨ Core Features
 
